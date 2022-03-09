@@ -17,6 +17,6 @@
 </br>
   <li>The dashboard is available on <a href='https://public.tableau.com/views/SalesAgentAnalytics_16466646350510/SalesAgentDashboard?:language=pt-BR&:display_count=n&:origin=viz_share_link'> <img align="center" alt="Gabb-tableau" height="45" width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png"/> Tableau</a></li>
 
-<img align='center' height=600 width=950 src="https://github.com/gabrielalastra/TABLEAU/blob/main/Sales%20Agent%20Dashboard.png?raw=true"/>
+<img src="https://github.com/gabrielalastra/TABLEAU/blob/main/Sales%20Agent%20Dashboard.png?raw=true"/>
   
 </body>
